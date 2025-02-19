@@ -11,3 +11,6 @@ As a starting point, it doesn't have much on it - one LED (as, of course, a blin
 header connected to 8 GPIOs.  That's by design.
 
 Any and all feedback, good or bad, is welcome - david.knell@gmail.com will find me.  All use is at your own risk.
+
+It's not yet tested - it's in production at the moment (as of 2025-02-19) - I'll update here as and when I know if it
+works or not ;-)

@@ -9,3 +9,5 @@ CC BY 4.0 - details here: https://creativecommons.org/licenses/by/4.0/?ref=choos
 
 As a starting point, it doesn't have much on it - one LED (as, of course, a blinking LED is proof of concept) and a
 header connected to 8 GPIOs.  That's by design.
+
+Any and all feedback, good or bad, is welcome - david.knell@gmail.com will find me.  All use is at your own risk.

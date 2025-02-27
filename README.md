@@ -12,5 +12,4 @@ header connected to 8 GPIOs.  That's by design.
 
 Any and all feedback, good or bad, is welcome - david.knell@gmail.com will find me.  All use is at your own risk.
 
-It's not yet tested - it's in production at the moment (as of 2025-02-19) - I'll update here as and when I know if it
-works or not ;-)
+Tested and working as 2025-02-27.

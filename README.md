@@ -15,6 +15,9 @@ Any and all feedback, good or bad, is welcome - david.knell@gmail.com will find 
 You'll need EasyEDA Pro to open and use this - if you've been using the standard version, it's worth the slight learning
 curve.  Trust me - I've been there.
 
+I think that I've specified JLCPCB's basic parts wherever possible to keep low-volume build costs to a minimum.  If I've
+missed anything, please let me know.
+
 The design went through JLCPCB's checks without any queries being raised and, about three days after submission, boards
 were on their way to me.
 
